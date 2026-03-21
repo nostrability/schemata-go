@@ -1,5 +1,7 @@
 # schemata-go
 
+[![Test](https://github.com/nostrability/schemata-go/actions/workflows/test.yml/badge.svg)](https://github.com/nostrability/schemata-go/actions/workflows/test.yml)
+
 Go data package for [Nostr](https://nostr.com/) protocol JSON schemas. Embeds compiled JSON schema files from [nostrability/schemata](https://github.com/nostrability/schemata) and provides a registry lookup.
 
 ## Usage
